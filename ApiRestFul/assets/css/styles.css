@@ -1,0 +1,6 @@
+body{background-color: rgba(9, 9, 9, 0.09)
+}
+.container{margin-left: 10%;margin-right: 10%;border: 1px solid grey; border-radius: 5px}
+.banner{background-color: #C4473A;padding: 2%}
+.banner span{color: white; font-size: 26px}
+.content{min-height: 200px;background-color: white}
